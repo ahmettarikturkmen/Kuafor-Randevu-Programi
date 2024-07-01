@@ -1,0 +1,6 @@
+Saç Kesimi,200
+Makyaj,50
+Lazer Epilasyonu,3000
+Sakal Bıyık,100
+Yüz Bakımı,50
+Ağda,50

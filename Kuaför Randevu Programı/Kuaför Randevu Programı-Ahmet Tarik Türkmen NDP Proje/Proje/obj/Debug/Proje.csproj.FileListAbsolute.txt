@@ -1,0 +1,187 @@
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\devv\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Proje1\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\Projesafe\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\proje deneme\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save8\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save8\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save9 - Kopya\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save13\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save13\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\checkpoint\save14\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\save14ikon deneme\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\NDP PROJE SON SUNUM\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.exe
+C:\Users\MSİ\OneDrive\Masaüstü\proje değişim aynı id ise hata\Ahmet Tarik Türkmen NDP PROJE\Ahmet Tarik Türkmen NDP Proje\Proje\obj\Debug\Proje.pdb

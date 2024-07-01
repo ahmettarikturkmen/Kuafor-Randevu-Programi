@@ -1,0 +1,5 @@
+Ali,Biçim,05387452145,Yüz Bakımı
+Mertcan ,Bahar,05389654114,Lazer 
+Emirhan,Yücel,05375090029,Maske
+Ahmet,Türkmen,05353495310,Saç
+Bora,Sonuç,05475862145,Sakal
